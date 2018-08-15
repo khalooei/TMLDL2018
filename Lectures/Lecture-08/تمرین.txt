@@ -1,0 +1,1 @@
+implementation of MNIST via latest MLP (simple example that was implemented in class).
