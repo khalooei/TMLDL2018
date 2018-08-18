@@ -5,14 +5,34 @@
 Feel free if you have any question, you can contact me [khalooei[at]aut.ac.ir](#)
 
 
-#Some Tutorial links for:
+# Some Tutorial links for:
+
+## Videos
+(https://www.aparat.com/v/lA6rE) [mini persian video course]
+(https://www.aparat.com/v/G4vMr) [persian video course]
+(https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [English video course]
+
+## Python
+* https://www.stavros.io/tutorials/python/
+* http://cs231n.github.io/python-numpy-tutorial/
+
+## Neural Network
+* https://dashee87.github.io/data%20science/deep%20learning/visualising-activation-functions-in-neural-networks/
+* https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+* http://theorangeduck.com/page/neural-network-not-working
+* http://ruder.io/optimizing-gradient-descent/
+
 ## TensorFlow
 * https://learningtensorflow.com/index.html
+* https://www.dropbox.com/s/m14iaynhl7coqfa/Introduction%20to%20Deep%20Learning%20with%20TensorFlow.pdf?dl=1
+* https://www.dropbox.com/s/zs8iw941t5mkw4n/cs231n_2017_lecture4_selected.pdf?dl=1
+* https://www.dropbox.com/s/20o91shh8r6ow9a/Tensorflow%20and%20Deep%20Learning%20-%20Slides_0.pdf?dl=1
 * https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks
 * https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf
 
 
 ## Machine Learning
+* https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 * https://github.com/ageron/handson-ml/blob/master/01_the_machine_learning_landscape.ipynb
 * https://machinelearningmastery.com/start-here/#getstarted
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
