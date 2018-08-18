@@ -9,7 +9,9 @@ Feel free if you have any question, you can contact me [khalooei[at]aut.ac.ir](#
 
 ## Videos
 (https://www.aparat.com/v/lA6rE) [mini persian video course]
+<br>
 (https://www.aparat.com/v/G4vMr) [persian video course]
+<br>
 (https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) [English video course]
 
 ## Python
