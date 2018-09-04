@@ -53,7 +53,6 @@ Feel free if you have any question, you can contact me [khalooei[at]aut.ac.ir](#
 
 
 #### Some prerequisites
-## session 8 ::
 * https://github.com/aymericdamien/TensorFlow-Examples/
 * https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
 * https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
