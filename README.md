@@ -50,3 +50,10 @@ Feel free if you have any question, you can contact me [khalooei[at]aut.ac.ir](#
 ** https://colab.research.google.com/drive/1achzCaBFBHputcqXrw_o_He5UNjx3hFG#scrollTo=ImjwR5LNPFmp
 ** https://medium.com/deep-learning-turkey/deep-learning-lab-episode-2-cifar-10-631aea84f11e
 
+
+
+#### Some prerequisites
+## session 8 ::
+* https://github.com/aymericdamien/TensorFlow-Examples/
+* https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+* https://medium.freecodecamp.org/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050
